@@ -1,0 +1,6 @@
+// Define graph format:
+c <expected # colors> <optimal # colors, if known>
+p <# nodes (i.e.highest node #)>
+e <node1 #> <node2 #>
+e <node1 #> <node3 #>
+etc., etc.
